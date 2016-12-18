@@ -1,0 +1,6 @@
+#BlueJ class context
+comment0.params=nextChain
+comment0.target=void\ setNextChain(DispenseChain)
+comment1.params=cur
+comment1.target=void\ dispense(Currency)
+numComments=2
